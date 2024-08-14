@@ -71,12 +71,15 @@ Overall, the analysis provides valuable insights into the performance of promoti
 In addition to the main business requests, the following recommended insights were explored during the analysis:
 
 ### Store Performance Analysis
+![Store performance analysis](https://github.com/user-attachments/assets/b19ec539-1161-4d8b-b061-2563e864fd13)
+
 
 - **Top 10 Stores by Incremental Revenue (IR):** Identify the top-performing stores in terms of incremental revenue generated from promotions.
 - **Bottom 10 Stores by Incremental Sold Units (ISU):** Identify the stores with the lowest performance in terms of incremental sold units during the promotional period.
 - **City-wise Store Performance:** Analyze how store performance varies by city and identify any common characteristics among top-performing stores.
 
 ### Promotion Type Analysis
+![promotion Type analysis](https://github.com/user-attachments/assets/8cff1134-61c8-443c-a2bc-ebffe14c1b06)
 
 - **Top 2 Promotion Types by Incremental Revenue:** Determine the top-performing promotion types that resulted in the highest incremental revenue.
 - **Bottom 2 Promotion Types by Incremental Sold Units:** Identify the least effective promotion types in terms of their impact on incremental sold units.
@@ -84,6 +87,7 @@ In addition to the main business requests, the following recommended insights we
 - **Optimal Promotion Type:** Determine which promotions strike the best balance between incremental sold units and maintaining healthy margins.
 
 ### Product and Category Analysis
+![product and category analysis](https://github.com/user-attachments/assets/d0db826e-0069-4ddd-bc1a-ec84345570a1)
 
 - **High-Lifting Product Categories:** Identify product categories that saw significant increases in sales from the promotions.
 - **Product Responsiveness to Promotions:** Analyze specific products that respond exceptionally well or poorly to promotions.
